@@ -13,7 +13,7 @@ int main() {
     printf("hailstone_length(123) == 46 == %ld\n", hailstone_length(123));
 
     printf("1, 2, 4, 8, 16, each on a separate line:\n");
-    power2(10);
+    power2(4);
     printf("Output only 1:\n");
     power2(0);
 }
