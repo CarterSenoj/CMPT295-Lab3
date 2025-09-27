@@ -17,6 +17,8 @@ uint64_t factorial(uint64_t n) {
     }
 }
 
+// Carter Jones - 301585854
+
 char* to_base(uint64_t v, short base, char ending) {
     unsigned char c;
     char* pos = buffer + BLEN - 2;
